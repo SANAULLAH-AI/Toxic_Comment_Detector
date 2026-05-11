@@ -264,15 +264,3 @@ If you find ToxiShield Ultra useful:
 
 ---
 
-## ✅ Next Steps
-
-1. **Copy this entire README** and paste it into your Hugging Face Space's `README.md` file
-2. **Update your GitHub repository** with the same README
-3. **Add a `requirements.txt`** file (I can generate this for you)
-4. **Add screenshots** of your Space UI to make it even more professional
-
-Would you like me to also create:
-- A professional `requirements.txt` file?
-- An enhanced `app.py` with all 4 models?
-- A `LICENSE` file (MIT)?
-- A `.gitignore` file?

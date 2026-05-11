@@ -254,11 +254,6 @@ If you find ToxiShield Ultra useful:
 
 ---
 
-**Built with ❤️ by Sana Ullah for safer online communities**
-
-*Version 6.0 | 2026*
-```
-
 
 ---
 
@@ -315,3 +310,8 @@ Fasil Nawaz (7863)     ██████████████░░░░░
 | 7999 | **Khawaja Touseeq** | ML Engineer |
 | 7863 | **Fasil Nawaz** | Backend Developer |
 
+
+**Built with ❤️ by Sana Ullah for safer online communities**
+
+*Version 6.0 | 2026*
+```

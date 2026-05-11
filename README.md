@@ -1,8 +1,5 @@
 
 ---
-
-```markdown
----
 title: ToxiShield Ultra
 emoji: 🛡️
 colorFrom: purple
@@ -262,5 +259,59 @@ If you find ToxiShield Ultra useful:
 *Version 6.0 | 2026*
 ```
 
+
 ---
+
+## 👥 Group Project Team
+
+**ToxiShield Ultra** was developed collaboratively by the following team members:
+
+| # | Name | Roll/ID | Role | Contributions |
+|---|------|---------|------|---------------|
+| 1 | **Sana Ullah** | `7964` | Lead AI Engineer | Model ensemble architecture, RoBERTa fine-tuning, Deployment on Hugging Face Spaces |
+| 2 | **Khawaja Touseeq** | `7999` | ML Engineer | Toxic BERT integration, Data preprocessing, Performance optimization |
+| 3 | **Fasil Nawaz** | `7863` | Backend Developer | Gradio UI development, API integration, Testing & Validation |
+
+
+
+
+---
+
+### 📅 Project Timeline
+
+| Phase | Duration | Lead |
+|-------|----------|------|
+| Data Collection & Cleaning | Week 1 | Team |
+| Model Training (RoBERTa, BERT, DeBERTa) | Week 2-3 | Sana Ullah |
+| Ensemble Integration | Week 4 | Khawaja Touseeq |
+| UI Development (Gradio) | Week 5 | Fasil Nawaz |
+| Testing & Deployment | Week 6 | All |
+
+---
+
+### 🤝 Contribution Breakdown
+
+```
+Sana Ullah (7964)     ████████████████████░░  40% (Lead + Models)
+Khawaja Touseeq (7999) ██████████████░░░░░░░░  30% (BERT + Preprocessing)
+Fasil Nawaz (7863)     ██████████████░░░░░░░░  30% (UI + Testing)
+```
+
+---
+
+### 📝 Team Statement
+
+> *"We, the undersigned, have collaboratively developed ToxiShield Ultra as a group project. Each team member contributed equally to the design, implementation, and testing of this enterprise-grade toxic comment detection system."*
+
+
+
+
+---
+## 👥 Team ToxiShield
+
+| ID | Name | Role |
+|----|------|------|
+| 7964 | **Sana Ullah** | Lead AI Engineer |
+| 7999 | **Khawaja Touseeq** | ML Engineer |
+| 7863 | **Fasil Nawaz** | Backend Developer |
 
